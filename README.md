@@ -1,8 +1,8 @@
 # Wstęp do gita
 
-134167 Ścieszka Marcin
-135694 Uladzislau Shapavalau
-119168 Pavlo Ratush
+134167 Ścieszka Marcin \
+135694 Uladzislau Shapavalau \
+119168 Pavlo Ratush \
 
 Po wykonaniu danego ćwiczenia poprzedź je znakami (*).
 Przykładowo ćwiczenie przed wykonaniem wyglądające następująco:
